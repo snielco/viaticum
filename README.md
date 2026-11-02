@@ -101,9 +101,9 @@ Each phase runs in production before the next one starts.
 
 ## License
 
-[PolyForm Noncommercial 1.0.0](LICENSE.md): free for personal, research, hobby, educational and other noncommercial use,
-including changes and redistribution, as long as you keep the license and the `Required Notice` line in [NOTICE](NOTICE).
-Commercial use is not permitted under this license. This is a source-available license, not an OSI open-source license.
+Copyright (C) 2026 snielco. Licensed under the [GNU General Public License v3.0 or later](LICENSE)
+(`GPL-3.0-or-later`). You may use, study, change and share it, including commercially; if you distribute it or a
+modified version, you must do so under the same license with its source code.
 
 If you use Viaticum or its results in published work, please cite it ([CITATION.cff](CITATION.cff)).
 

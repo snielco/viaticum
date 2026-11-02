@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 snielco
 """KV slot-move test client (stdlib only). One step per subcommand; each appends a JSON line to
 runs/<run>/results.jsonl. Talks straight to a host's llama-swap (:9091) through /upstream/<route>/.
 

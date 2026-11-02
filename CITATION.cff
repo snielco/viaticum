@@ -4,5 +4,5 @@ title: "Viaticum: a priority-aware router with cross-host KV session moves for l
 authors:
   - alias: snielco
 repository-code: "https://github.com/snielco/viaticum"
-license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+license: GPL-3.0-or-later
 date-released: 2026-11-01

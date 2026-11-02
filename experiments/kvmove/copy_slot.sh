@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 snielco
 # Copy a slot file between two llama.cpp hosts, relayed through a third host that can SSH to both
 # (the two GPU hosts need no SSH trust between them).
 # Usage: copy_slot.sh strix|observer strix|observer FILE   -> prints copy seconds and both sha256 (direct reads).
