@@ -1,0 +1,16 @@
+copy observer -> strix ob30k.bin: 1578484528 bytes in 14.2 s = 111 MB/s
+sha256 observer 6397aadbd77c5bd101b1e037d3bf9b3b41039f26451bba00c7342301ef1f4b63
+sha256 strix 6397aadbd77c5bd101b1e037d3bf9b3b41039f26451bba00c7342301ef1f4b63
+MATCH
+copy observer -> strix ob100k.bin: 4208867836 bytes in 37.0 s = 114 MB/s
+sha256 observer af6f21d6fab1e4910c3b8c4e6ebe2bd6918997eb871768ac92e1f621beb177e1
+sha256 strix af6f21d6fab1e4910c3b8c4e6ebe2bd6918997eb871768ac92e1f621beb177e1
+MATCH
+copy strix -> observer a30k.bin: 1578484528 bytes in 14.5 s = 109 MB/s
+sha256 strix 16a878b5d3e9bcde3e2736b772f18d724bf4e62608460b9ac7c5e508f3ae2fc4
+sha256 observer 16a878b5d3e9bcde3e2736b772f18d724bf4e62608460b9ac7c5e508f3ae2fc4
+MATCH
+copy strix -> observer sx100k.bin: 4211757268 bytes in 37.9 s = 111 MB/s
+sha256 strix 0906c29e70dac454bb9ce8107d22fe48605588eea7e3f214f2330c50dfa4451c
+sha256 observer 0906c29e70dac454bb9ce8107d22fe48605588eea7e3f214f2330c50dfa4451c
+MATCH

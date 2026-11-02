@@ -1,0 +1,5 @@
+# tokenized test documents (regenerate with kvmove_test.py build) and slot files
+experiments/kvmove/runs/*/doc-*.json
+*.bin
+__pycache__/
+fosslicer/
